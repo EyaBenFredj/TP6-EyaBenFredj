@@ -181,12 +181,4 @@ private readonly string _apiUrl = "https://localhost:7189/api/Schools";
 
 ---
 
-## 📤 Submission
 
-Push to GitHub:
-```bash
-git init
-git add .
-git commit -m "TP6 Complete - API + MVC Client"
-git remote add origin https://github.com/YOUR_USERNAME/tp6-school-app.git
-git push -u origin main
