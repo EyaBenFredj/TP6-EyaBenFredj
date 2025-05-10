@@ -14,6 +14,7 @@ The goal of this lab is to:
 ---
 
 ## 🗂️ Folder Structure
+```
 
 TP6-YourName/
 ├── SchoolAPI/
@@ -51,6 +52,7 @@ TP6-YourName/
     │       └── ValidationScriptsPartial.cshtml
     ├── appsettings.json
     └── Program.cs
+```
 
 ---
 
