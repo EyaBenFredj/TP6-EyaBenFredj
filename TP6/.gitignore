@@ -1,0 +1,54 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# VS Code directory
+.vscode/
+
+# Visual Studio folder (causing your error)
+.vs/
+
+# DotCover
+.idea/
+*.dotCover
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+wwwroot/
+publish/
+out/
+
+# Docker files
+**/Dockerfile.*
+docker-compose*
+
+# Logs
+*.log
+
+# NPM and Node (if using frontend)
+node_modules/
+package-lock.json
+
+# EF Core Migrations backup files
+**/*.Designer.cs
+**/*Snapshot.cs
+
+# Secrets and config
+appsettings.Development.json
+appsettings.Local.json
+
+# Others
+.env
+*.db
